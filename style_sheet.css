@@ -1,0 +1,19 @@
+DIV.mainBox {width:750px;height:100%;margin:0 auto;border-left:ridge grey 5px;border-right:ridge grey 5px;padding:10px}
+DIV.topBox {width:780px;height:100px;margin:0 auto;background-color:#000033;color:white}
+
+H1 {font-family:Copperplate;color:#FFFFFF;text-align:center;padding-top:15px;margin-bottom:10px;position:relative;left:50px}
+TD {padding-left:15px;padding-right:15px;font-size:11pt}
+A:link {color:white}
+A:active {color:#0000FF} /*blue*/
+A:visited {color:#9966CC} /*purple*/
+BODY {font-family:"Arial","Calibri"}
+P {text-indent:40px}
+
+P#big {font-size:24pt;color:#0000CC;text-align:center}
+IMG#anchor {position:relative;float:right;vertical-align:text-top}
+THEAD {font-weight:bold}
+
+DIV#pictures {float:left}
+A#blackLink {color:black}
+DIV.bottomBox {width:30%;height:20px;margin:0 auto;font-family:"Arial","Calibri";font-size:9pt;text-align:center}
+
